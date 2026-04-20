@@ -87,5 +87,9 @@ Scaffold(
 | **Black box rendered** | Register view factory *before* calling `super.application()`. |
 | **UIKit background crash** | Wrap UI updates in `DispatchQueue.main.async`. |
 
+
+Uploading Screen Recording 2026-04-17 at 6.01.58 PM.mov…
+
+
 ## License
 MIT
