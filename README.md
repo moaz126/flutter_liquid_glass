@@ -88,7 +88,7 @@ Scaffold(
 | **UIKit background crash** | Wrap UI updates in `DispatchQueue.main.async`. |
 
 
-Uploading Screen Recording 2026-04-17 at 6.01.58 PM.mov…
+https://github.com/user-attachments/assets/634fbe41-f5bb-4815-aea1-acc1550d4e6a
 
 
 ## License
